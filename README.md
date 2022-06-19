@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Puedes ver la página web [desde aqui](https://alejaes.github.io/curso-intro-react)**
 
 ## Available Scripts
 
