@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Patua+One&display=swap");
+
+.list {
+	display: flex;
+	flex-direction: column;
+}
+.title {
+	font-family: "Patua One", cursive;
+	font-size: 40px;
+	text-align: center;
+	letter-spacing: 3px;
+}
+
+.TodoCounter {
+	font-size: 24px;
+	text-align: center;
+	margin: 0;
+	padding: 48px;
+}
+
+.todolist {
+	position: relative;
+	width: 30%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
